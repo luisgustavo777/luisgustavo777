@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Working with Java since 2022<br>📚 I'm currently training in Front-End<br><br>I've been working on a commercial project with ERP iDempiere since 2022, where I developed processes and interfaces with Java and PostgreSQL on EclipseIDE.</p>
+<p align="left">✨ Working with Java and iDempiere ERP since 2022<br>📚 I'm currently training in Front-End<br><br>I've been working on a commercial project with ERP iDempiere since 2022, where I developed processes and interfaces with Java and PostgreSQL on EclipseIDE.</p>
 
 ###
 
