@@ -40,6 +40,10 @@
 
 ###
 
+<h2 align="left">Get in touch with me</h2>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/lu%C3%ADs-gustavo-moreira-928967262/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
