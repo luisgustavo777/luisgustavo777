@@ -40,7 +40,7 @@
 
 ###
 
-<h2 align="left">Get in touch with me</h2>
+<h2 align="left">Get in touch</h2>
 
 ###
 
